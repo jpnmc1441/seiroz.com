@@ -53,8 +53,10 @@
     border: 1px solid green;
     border-radius: 62px;
     margin: auto;
+margin-top:10px;
+Font-size:2rem;
     padding: 18px;
-    width: 50%;
+    width: 80%;
     background: rgb(60, 179, 113);
     color: darkblue;}
 
