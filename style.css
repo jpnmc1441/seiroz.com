@@ -12,6 +12,23 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;}
 
+.fa-tiktok{ 
+ font-size: 2rem;
+  background: -webkit-linear-gradient(#2C3E50,
+#000000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;}
+
+.fa-youtube{ 
+ font-size: 2rem;
+  background: -webkit-linear-gradient(#B02E0C,
+#EB4511);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;}
+
+
+
+
 .intro01{
  font-family: 'Tangerine', cursive;
     font-size: 2rem;
