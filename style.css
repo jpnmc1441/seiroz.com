@@ -1,8 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Tangerine:wght@700&display=swap');
+
 
 .fa-face-grin-tongue-squint{font-size:1.5rem;font-weight:bolder;}
 
 .intro01{
+ font-family: 'Tangerine', cursive;
  position: relative;
     display: block;
     padding: 20px;
