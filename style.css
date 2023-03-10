@@ -2,6 +2,23 @@
 
 .fa-face-grin-tongue-squint{font-size:1.5rem;font-weight:bolder;}
 
+.intro01{
+ position: relative;
+    display: block;
+    padding: 20px;
+    margin: 60px auto 0px;
+    color: rgb(233, 116, 81);
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    width: 80%;
+    text-align: center;
+    max-width: 500px;
+    backdrop-filter: blur(7px);
+    box-shadow: 1px 5px 23px 0px rgba(0,0,0,0.9);
+    background-color: rgba(0,0,0,0.5);
+}
+
+
 .viewmorebutton{
    font-family: 'Rampart One', cursive;
    border: 1px solid green;
