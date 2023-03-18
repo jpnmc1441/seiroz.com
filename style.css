@@ -2,7 +2,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Tangerine:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Ruslan+Display&display=swap');
 
-
+.pointer{
+    max-height: 70px;
+    width: auto;
+    margin: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+.buttonblog{}
 .fa-face-grin-tongue-squint{font-size:1.5rem;font-weight:bolder;}
 .fa-brands{font-weight:400;font-size:2rem;}
 .fa-instagram{ 
@@ -47,6 +55,7 @@
     background-color: rgba(0,0,0,0.5);
 }
 
+.viewblog{text-align:center;margin:auto;}
 
 .viewmorebutton{
    font-family: 'Rampart One', cursive;
@@ -57,7 +66,7 @@ margin-top:10px;
 Font-size:1.5rem;
     padding: 10px;
     width: 80%;
-    background: rgb(60, 179, 113);
+    background: rgba(60, 179, 113,0.1);
     color: darkblue;}
 
 
