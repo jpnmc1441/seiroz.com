@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Tangerine:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Ruslan+Display&display=swap');
 
@@ -178,7 +179,7 @@ h1 span {
 
 /*------------------------------div on top of gif css-----------------------------------------------*/
 .h1social{
- font-family: 'Rampart One';
+ font-family: 'Rubik Doodle Shadow';
     margin: 40px auto 0px;
     width: fit-content;
     color: lime;}
@@ -234,14 +235,13 @@ background-color: rgba(0,0,0,0.8);
 .sweet, .stuff{
  /* border:1px solid red;*/
    width:100%;
-   font-family: 'Exo 2', sans-serif;
+   font-family: 'Ruslan+Display';
   display:block;
 }
 
 .sweet{margin-top:60px;}
 
 .sweet-title {
-   
  color: #fde9ff;
   font-weight: 900;
   text-transform: uppercase;
