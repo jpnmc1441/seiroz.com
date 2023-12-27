@@ -293,26 +293,23 @@ background-color: rgba(0,0,0,0.8);
 
 
 a{
- font-family: 'Ruslan Display', cursive;
-    font-weight:900;
-    font-style:cursive;
-    font-size:2rem;
-   position: relative;
-    display: block;
-    padding: 20px;
-    margin: 60px auto 0px;
-    color: rgb(233, 116, 81);
-    text-decoration: none;
-    text-transform: uppercase;
-    transition: 0.5s;
-    letter-spacing: 4px;
-    overflow: hidden;
-    width: 80%;
-    text-align: center;
-    max-width: 500px;
-    backdrop-filter: blur(10px);
-    box-shadow: 1px 5px 23px 0px rgb(8 1 1 / 40%);
-    background-color: rgba(0,0,0,0.3);
+  font-family: 'Ruslan Display', cursive;
+  position: relative;
+  display: block;
+  padding: 20px;
+  margin: 60px auto 0px;
+  color: rgb(233, 116, 81);
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: 0.5s;
+  letter-spacing: 4px;
+  overflow: hidden;
+  width: 80%;
+  text-align: center;
+  max-width: 500px;
+  backdrop-filter: blur(10px);
+  box-shadow: 1px 5px 23px 0px rgb(8 1 1 / 40%);
+  background-color: rgba(0,0,0,0.3);
 }
 
 a:hover{
