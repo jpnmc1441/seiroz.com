@@ -234,10 +234,14 @@ background-color: rgba(0,0,0,0.8);
 }
 .sweet, .stuff{
  /* border:1px solid red;*/
+    
    width:100%;
    font-family: 'Rubik Doodle Shadow';
+    font-style: normal;
+  font-weight: 700;
   display:block;
 }
+
 
 .sweet{margin-top:60px;}
 
