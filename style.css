@@ -238,7 +238,7 @@ background-color: rgba(0,0,0,0.8);
    width:100%;
    font-family: 'Rubik Doodle Shadow';
     font-style: normal;
-  font-weight: 700;
+  font-weight: 900;
   display:block;
 }
 
@@ -284,6 +284,9 @@ background-color: rgba(0,0,0,0.8);
 
 a{
  font-family: 'Ruslan Display', cursive;
+    font-weight:900;
+    font-style:cursive;
+    font-size:2rem;
    position: relative;
     display: block;
     padding: 20px;
